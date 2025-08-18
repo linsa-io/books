@@ -143,8 +143,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Algorithms by Dasgupta (2006)](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 - [📖 Algorithms etc by Jeff Erickson (2015)](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
-- [📕 Advanced Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
+- [📕 Advanced Algorithms and Data Structures (2019)](https://www.goodreads.com/book/show/52362532-advanced-algorithms-and-data-structures)
 - [📕 Algorithms and Data Structures for Massive Datasets (2021)](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
+- [📕 Grokking Data Structures (2024)](https://www.goodreads.com/book/show/211931909-grokking-data-structures)
 
 ## Architecture
 
