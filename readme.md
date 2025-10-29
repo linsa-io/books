@@ -145,6 +145,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📖 Algorithm design: parallel and sequential](http://www.parallel-algorithms-book.com/)
 - [📕 Advanced Algorithms and Data Structures in Action (2019)](https://www.goodreads.com/book/show/47316716-algorithms-and-data-structures-in-action)
 - [📕 Algorithms and Data Structures for Massive Datasets (2021)](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets)
+- [📕 Fabulous Adventures in Data Structures and Algorithms (2025)](https://www.manning.com/books/fabulous-adventures-in-data-structures-and-algorithms)
 
 ## Architecture
 
