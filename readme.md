@@ -200,6 +200,19 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Give and take: why helping others drives our success (2014)](https://www.goodreads.com/book/show/16158498-give-and-take)
 - [📕 MAKE: Bootstrapper's Handbook (2018)](https://www.goodreads.com/book/show/39165640-make)
 - [📕 The Lean Startup (2011)](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+- [📕 All Marketers Are Liars: The Power of Telling Authentic Stories in a Low-Trust World (2005)](https://www.goodreads.com/book/show/160830.All_Marketers_Are_Liars)
+- [📕 Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies (2018)](https://www.goodreads.com/book/show/38398157-blitzscaling)
+- [📕 Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant (2005)](https://www.goodreads.com/book/show/4898.Blue_Ocean_Strategy)
+- [📕 Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers (2006)](https://www.goodreads.com/book/show/61329.Crossing_the_Chasm)
+- [📕 Purple Cow: Transform Your Business by Being Remarkable (2003)](https://www.goodreads.com/book/show/641604.Purple_Cow)
+- [📕 The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything (2004)](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start)
+- [📕 The Bootstrapper's Bible: How to Start and Build a Business with a Great Idea and (Almost) No Money (1998)](https://www.goodreads.com/en/book/show/1047290.The_Bootstrapper_s_Bible)
+- [📕 The Changing World of the Executive (1985)](https://www.goodreads.com/book/show/3046869-the-changing-world-of-the-executive)
+- [📕 The Four Steps to the Epiphany: Successful Strategies for Startups That Win (2005)](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany)
+- [📕 The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (2003)](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma)
+- [📕 The Startup Owner's Manual: The Step-By-Step Guide for Building a Great Company (2012)](https://www.goodreads.com/book/show/13557008-the-startup-owner-s-manual)
+- [📕 Winning (2005)](https://www.goodreads.com/book/show/866222.Winning)
+- [📕 Zero to One: Notes on Startups, or How to Build the Future (2014)](https://www.goodreads.com/book/show/18050143-zero-to-one)
 
 ## Category theory
 
