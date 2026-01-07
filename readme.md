@@ -535,6 +535,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Learn Kubernetes in a Month of Lunches (2021 early-access)](https://www.manning.com/books/learn-kubernetes-in-a-month-of-lunches)
 - [📕 Kubernetes in Action, Second Edition](https://www.manning.com/books/kubernetes-in-action-second-edition)
 - [📕 Acing the Certified Kubernetes Administrator Exam](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam)
+- [📕 Acing the Certified Kubernetes Administrator Exam, Second Edition](https://www.manning.com/books/acing-the-certified-kubernetes-administrator-exam-second-edition)
 
 ## Leadership
 
