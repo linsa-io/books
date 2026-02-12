@@ -926,6 +926,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 Practices of the Python Pro (2020)](https://www.goodreads.com/book/show/45361469-practices-of-the-python-pro)
 - [📕 A Pythonic Adventure (2022)](https://github.com/stjepanjurekovic/books/edit/master/readme.md) - children friendly
 - [📕 Twisted Python Projects (2023)](https://www.manning.com/books/twisted-python-projects) - children friendly
+- [📖 Python by Example (2026)](https://github.com/pycollege/python-by-example)
+
 
 ### R
 
