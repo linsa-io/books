@@ -640,7 +640,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Mindset
 
-- [📕 Tao te ching (6th century BC)](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
+- [📕 The Power of Positive Thinking (1952)](https://www.goodreads.com/book/show/1134122.The_Power_of_Positive_Thinking?ref=nav_sb_ss_1_17)
+-  [📕 Tao te ching (6th century BC)](https://www.goodreads.com/book/show/67896.Tao_Te_Ching)
 - [📕 Meditations (161)](https://www.goodreads.com/book/show/30659.Meditations)
 - [📕 The Zen Teaching of Huang Po: On the Transmission of Mind (857)](https://www.goodreads.com/book/show/276779.The_Zen_Teaching_of_Huang_Po)
 - [📕 Siddhartha (1922)](https://www.goodreads.com/book/show/52036.Siddhartha)
