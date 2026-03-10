@@ -78,6 +78,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Assembly](#assembly)
   - [C](#c)
   - [C++](#c-1)
+  - [C#](#c-2)
   - [D](#d)
   - [Go](#go)
   - [Clojure](#clojure)
@@ -804,6 +805,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [📕 C++ core guidelines (2017)](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 - [📕 A Tour of C++ (2013)](https://www.goodreads.com/book/show/18197265-a-tour-of-c) - Very concise, updates readers with prior knowledge of C++ to modern C++11.
 - [📕 Beginning C++ Through Game Programming (2004)](https://www.goodreads.com/book/show/852335.Beginning_C_Through_Game_Programming)
+
+### C#
+
+- [📖 Fundamentals of Computer Programming with C# (2013)](https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf)
 
 ### Clojure
 
