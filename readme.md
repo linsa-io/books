@@ -1158,6 +1158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Notes](https://github.com/gitig/Practical-Vim-Notes)
 - [📖 Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)
 - [📖 Vim user manual](http://vimdoc.sourceforge.net/htmldoc/usr_toc.html) - Must read for anyone new to vim.
+- [📖 Vim Book](https://github.com/dariubs/vim-book) - A short, practical book for people who've never touched vim.
 
 ## Type theory
 
