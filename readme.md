@@ -830,6 +830,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
   - [Multiple Language Versions](https://github.com/astaxie/build-web-application-with-golang#multiple-language-versions)
 - [📖 Learn Concurrent Programming with Go (2022)](https://www.manning.com/books/learn-concurrent-programming-with-go)
 - [📖 Learn Go with Pocket-Sized Projects (2023)](https://www.manning.com/books/learn-go-with-pocket-sized-projects)
+- [📖 Building Enterprise Projects with Go (2026)](https://link.springer.com/book/10.1007/979-8-8688-2370-1)
 
 ### Haskell
 
