@@ -320,6 +320,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Drugs
 
+- [📖 After Adderall: Overprescribed, Unraveled, and Rebuilt from Scratch (2026)](https://cdn.shoemoney.com/books/after-adderall.pdf) - Memoir of adult ADHD, Adderall dependence, quitting, and rebuilding a career as a software engineer.
 - [📕 Drugged: The Science and Culture Behind Psychotropic Drugs (2013)](https://www.goodreads.com/book/show/17847528-drugged)
 - [📕 Anatomy of an Epidemic: Magic Bullets, Psychiatric Drugs, and the Astonishing Rise of Mental Illness in America (2011)](https://www.goodreads.com/book/show/9932847-anatomy-of-an-epidemic)
 - [📕 Pleasures of the Brain (2009)](https://www.goodreads.com/book/show/6777669-pleasures-of-the-brain)
